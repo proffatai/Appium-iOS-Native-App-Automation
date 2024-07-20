@@ -12,7 +12,7 @@ public class NativeApps extends BaseClass {
 	@Test
 	public void sampleTest() throws InterruptedException  {
 		
-//		settingApp();
+		settingApp();
 		photosApp();
 		
 		
